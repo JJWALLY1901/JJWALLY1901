@@ -11,10 +11,10 @@
 ### 🎯 Acerca de mí
 
 - 🎓 Estudiante de Ingeniería de Sistemas (Perú)
-- 🧠 Interesado en análisis de datos, tecnología e inteligencia artificial aplicada a redes sociales
-- 📱 Community Manager con experiencia profesional desde 2017
-- ⚽ Pasión: Fútbol, cultura digital y narrativas visuales
-- 🧪 Investigando: Visualización de métricas de rendimiento en redes sociales
+- 📱 Community Manager y diseñador digital desde 2017
+- 🧠 Apasionado por el análisis de datos aplicado a redes sociales
+- ⚽ Fusiono deporte, tecnología y storytelling visual
+- 🧪 Tesis: Herramienta de visualización de métricas para redes sociales
 
 ---
 
@@ -25,7 +25,6 @@
 | **El Hincha Blanquiazul** | CM / Creador de contenido | Medio partidario más grande de Alianza Lima (2017–)     |
 | **Dale Fútbol Perú**     | CM / Cobertura deportiva  | +30M alcance anual, acreditado en Liga 1, desde 2023   |
 | **Gallo Freestyle**      | Creador LATAM             | Cobertura en Argentina, Colombia y Centroamérica       |
-
 
 ---
 
@@ -39,9 +38,9 @@
 
 ### 🧠 Actualmente Aprendiendo
 
-- 📈 Power BI avanzado & Automatización de dashboards
-- 🤖 IA aplicada al contenido digital (ChatGPT, APIs generativas)
-- 🔗 Conexión de APIs sociales: Instagram Graph, Meta Insights
+- 📈 Power BI avanzado y visualización con KPIs sociales
+- 🤖 Automatización con IA (ChatGPT + APIs)
+- 🛠️ Desarrollo de herramientas propias para CM y creadores de contenido
 
 ---
 
@@ -59,4 +58,3 @@
 > _"Donde el deporte se encuentra con la tecnología, nace una nueva forma de contar historias."_ ⚽💻📊
 
 ---
-

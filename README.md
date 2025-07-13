@@ -4,31 +4,30 @@
 </p>
 
 <h1 align="center">👋 Hola, soy Julian Flores</h1>
-<h3 align="center">📲 Creador de contenido · ⚙️ Ingeniería de Sistemas · 📊 Análisis digital deportivo</h3>
+<h3 align="center">🎥 Creador de contenido · 👨‍💻 Ingeniería de Sistemas · 📊 Análisis digital deportivo</h3>
 
 ---
 
-### 🎯 Acerca de mí
+### 🚀 Sobre mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas (Perú)
-- 📱 Community Manager y diseñador digital desde 2017
-- 🧠 Apasionado por el análisis de datos aplicado a redes sociales
-- ⚽ Fusiono deporte, tecnología y storytelling visual
-- 🧪 Tesis: Herramienta de visualización de métricas para redes sociales
-
----
-
-### 📌 Proyectos y medios en los que trabajé
-
-| Proyecto                | Rol                       | Alcance / Logros                                      |
-|------------------------|---------------------------|--------------------------------------------------------|
-| **El Hincha Blanquiazul** | CM / Creador de contenido | Medio partidario más grande de Alianza Lima (2017–)     |
-| **Dale Fútbol Perú**     | CM / Cobertura deportiva  | +30M alcance anual, acreditado en Liga 1, desde 2023   |
-| **Gallo Freestyle**      | Creador LATAM             | Cobertura en Argentina, Colombia y Centroamérica       |
+- 🎓 Estudiante de Ingeniería de Sistemas – Universidad Nacional Federico Villarreal (Perú)
+- 📱 Community Manager, creador de contenido y estratega digital desde 2017
+- ⚽ Especializado en medios deportivos, storytelling visual y gestión de audiencias
+- 📈 Apasionado por el Big Data aplicado al rendimiento de contenido en redes sociales
 
 ---
 
-### 🧰 Tech Stack & Skills
+### 🌍 Proyectos destacados
+
+| Proyecto              | Rol                        | Logros y Alcance                                      |
+|----------------------|----------------------------|--------------------------------------------------------|
+| **El Hincha Blanquiazul** | CM / Creador de contenido | Medio más grande de Alianza Lima (FB e IG), desde 2017 |
+| **Dale Fútbol Perú**     | Cobertura y diseño deportivo | +30M de alcance anual, acreditado en Liga 1 (2023–)     |
+| **Gallo Freestyle**      | Creador de contenido LATAM  | Expansión de marca a Argentina, Colombia y Centroamérica |
+
+---
+
+### 🛠️ Stack y habilidades
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,react,mysql,git,github,figma,photoshop,premierepro,canva&theme=dark" />
@@ -36,20 +35,25 @@
 
 ---
 
-### 🧠 Actualmente Aprendiendo
+### 📚 En constante aprendizaje
 
-- 📈 Power BI avanzado y visualización con KPIs sociales
-- 🤖 Automatización con IA (ChatGPT + APIs)
-- 🛠️ Desarrollo de herramientas propias para CM y creadores de contenido
+- 📊 Power BI y dashboards para KPIs sociales
+- 🤖 Automatización con IA 
+- ⚙️ Desarrollo de herramientas personalizadas para creadores y CM
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Stats de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JJWALLY1901&show_icons=true&theme=radical&count_private=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&theme=radical" height="180px"/>
 </div>
+
+---
+
+
+
 
 ---
 

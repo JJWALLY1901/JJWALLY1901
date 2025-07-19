@@ -43,7 +43,7 @@
 
 ---
 
-### ### 📈 Stats de GitHub
+### 📈 Stats de GitHub
 
 <div align="center">
   <!-- Stats generales -->

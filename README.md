@@ -46,8 +46,8 @@
 ### 📈 Stats de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JJWALLY1901&show_icons=true&theme=radical&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JJWALLY1901&show_icons=true&theme=radical&count_private=true&cache_seconds=3600" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&theme=radical&cache_seconds=3600" height="180px"/>
 </div>
 
 ---

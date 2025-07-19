@@ -49,8 +49,12 @@
   <!-- Stats generales -->
   <img src="https://github-readme-stats.vercel.app/api?username=JJWALLY1901&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues&hide_rank=false&custom_title=Estadísticas%20de%20GitHub" height="180px"/>
 
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&theme=radical&langs_count=10&hide_progress=false" height="180px"/>
+### 🧠 Lenguajes más usados
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&theme=radical&langs_count=10&hide_progress=false" height="230px"/>
+</div>
+
 
   <!-- Commits por día de la semana -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJWALLY1901&theme=radical&hide_border=false" height="180px"/>

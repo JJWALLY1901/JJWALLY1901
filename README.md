@@ -43,25 +43,19 @@
 
 ---
 
-### 📈 Stats de GitHub
+### ### 📈 Stats de GitHub
 
 <div align="center">
+  <!-- Stats generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JJWALLY1901&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues&hide_rank=false&custom_title=Estadísticas%20de%20GitHub" height="180px"/>
 
-  <!-- Stats generales (incluye commits privados y todas las métricas posibles) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JJWALLY1901&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide_border=false&theme=radical&cache_seconds=86400" 
-    height="180px" 
-    alt="GitHub Stats"
-  />
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&theme=radical&langs_count=10&hide_progress=false" height="180px"/>
 
-  <!-- Lenguajes más usados (layout compacto) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&langs_count=10&theme=radical&cache_seconds=86400" 
-    height="180px" 
-    alt="Top Languages"
-  />
-
+  <!-- Commits por día de la semana -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJWALLY1901&theme=radical&hide_border=false" height="180px"/>
 </div>
+
 
 
 ---

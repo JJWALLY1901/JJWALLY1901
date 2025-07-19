@@ -53,10 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&theme=radical&langs_count=10&hide_progress=false" height="230px"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&theme=radical&langs_count=20&hide_progress=false" height="230px"/>
-
-
-
   <!-- Commits por día de la semana -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJWALLY1901&theme=radical&hide_border=false" height="180px"/>
 </div>

@@ -46,9 +46,23 @@
 ### 📈 Stats de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JJWALLY1901&show_icons=true&theme=radical&count_private=true&cache_seconds=3600" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&theme=radical&cache_seconds=3600" height="180px"/>
+
+  <!-- Stats generales (incluye commits privados y todas las métricas posibles) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JJWALLY1901&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide_border=false&theme=radical&cache_seconds=86400" 
+    height="180px" 
+    alt="GitHub Stats"
+  />
+
+  <!-- Lenguajes más usados (layout compacto) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&langs_count=10&theme=radical&cache_seconds=86400" 
+    height="180px" 
+    alt="Top Languages"
+  />
+
 </div>
+
 
 ---
 

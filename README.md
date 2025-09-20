@@ -11,7 +11,6 @@
 ## 📌 Información de Contacto
 - 🔗 LinkedIn: [linkedin.com/in/juanflores1901](https://www.linkedin.com/in/juanflores1901)
 - 💻 GitHub: [github.com/JJWALLY1901](https://github.com/JJWALLY1901)
-- 🌎 Ubicación: Lima, Perú
 
 ---
 

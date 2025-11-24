@@ -10,7 +10,6 @@
 ## 🔗 Encuéntrame en la Red
 * **LinkedIn**: [linkedin.com/in/juanflores1901](https://www.linkedin.com/in/juanflores1901)
 * **GitHub**: [github.com/JJWALLY1901](https://github.com/JJWALLY1901)
-* <kbd>Email</kbd>: `juan.flores@example.com` *(Considera añadir tu correo aquí)*
 
 ---
 

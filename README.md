@@ -72,14 +72,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JJWALLY1901&show_icons=true&theme=radical&hide_rank=false" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJWALLY1901&layout=compact&theme=radical" height="180px"/>
-</div>
-
----
-
 ## 💡 Intereses y Pasiones
 * 🧠 **Tech for Good**: Aplicación de la tecnología a la salud mental y la optimización del tiempo.
 * ⚽ **Data Sports**: Análisis de datos deportivos avanzado (Sports Analytics).

@@ -9,15 +9,19 @@
 
 ## 🔗 Encuéntrame en la Red
 * **LinkedIn**: [linkedin.com/in/juanflores1901](https://www.linkedin.com/in/juanflores1901)
-* **GitHub**: [github.com/JJWALLY1901](https://github.com/JJWALLY1901)
 
 ---
 
 ## 🚀 Experiencia Profesional
 
+### **NIX MEDIA**
+#### **Organización de Medios** | *jun 2026 - Presente*
+* Integración a la organización de medios para la gestión y colaboración en proyectos digitales. 
+
 ### **Fundación CALMA**
 #### **Líder de Equipo Frontend (Team Leader)** | *ago 2025 - nov 2025*
 * Liderazgo de equipo multidisciplinario utilizando **metodología Scrum**.
+* Dirección de sesiones técnicas con el equipo de desarrollo frontend, incluyendo la coordinación y estandarización de versiones de **Tailwind CSS**.
 * Coordinación y gestión de **sprints**, incluyendo asignación de tareas, revisión de avances y cierre de proyectos.
 * Comunicación constante con Scrum Master, Líder Técnico y QA para asegurar la fluidez de las entregas.
 * Enfoque en la **resolución de bloqueos** y promoción de un ambiente colaborativo y productivo.
@@ -57,12 +61,14 @@
 
 ## 🎓 Formación Académica
 * **Ingeniería de Sistemas** (Egresado) - Universidad Nacional Federico Villarreal
+* **Análisis de Datos de Fútbol** - Sports Data Campus (2026)
+* **Inglés (Nivel Intensivo)** - Centro de Idiomas UNFV (2026)
 * **Programa Internacional de Periodismo Deportivo** - USIL (2021)
-* **Inglés Básico** - Centro Universitario de Idiomas UNFV (2025)
 
 ---
 
 ## 📜 Certificaciones & Conocimientos
+* **Fundamentos de Inteligencia Artificial** - IBM SkillsBuild & Cisco Networking Academy
 * Backend con Python
 * Programación en Bash Shell
 * Google Analytics para Ecommerce

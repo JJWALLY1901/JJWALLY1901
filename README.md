@@ -25,7 +25,7 @@
 
 ### **NIX MEDIA**
 #### **Organización de Medios** | *jun 2026 - Presente*
-* Formo parte activa de esta organización, aportando en la gestión, desarrollo y ejecución de iniciativas digitales.
+*  Automatización de procesos con Google Apps Script y Google Sheets, implementando CRUD, generación de identificadores, integración entre hojas, consumo de APIs, automatización de reportes y generación de PDF, con interfaces adaptadas para dispositivos móviles.
 
 ### **Fundación CALMA**
 #### **Team Leader Frontend** | *ago 2025 - nov 2025*

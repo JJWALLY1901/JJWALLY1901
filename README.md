@@ -18,8 +18,6 @@ Mi perfil se encuentra en la intersección entre **tecnología y operaciones**: 
 
 Actualmente trabajo en un entorno de **producción y transmisión de contenidos deportivos**, donde participo en la gestión de requerimientos, organización de información técnica y operativa, coordinación entre áreas y desarrollo de herramientas internas de automatización.
 
-Mi experiencia también incluye desarrollo Frontend con **React.js, Next.js y Tailwind CSS**, integración con APIs RESTful y trabajo bajo metodologías ágiles como **Scrum**.
-
 ---
 
 ## 🚀 Filosofía de Trabajo

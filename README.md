@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&background=1A1B27&center=true&vCenter=true&width=850&lines=Hola%2C+soy+Juan+Flores!;Ingeniero+de+Sistemas+%F0%9F%92%BB;Technical+Leader+%26+Developer+%F0%9F%9A%80;Automatizaci%C3%B3n+y+Tecnolog%C3%ADa+%F0%9F%A4%96;Producci%C3%B3n+y+Contenido+Deportivo+%E2%9A%BD;Sports+Analytics+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 ¡Qué tal! Soy Juan Flores</h1>
+<h1 align="center">👋 ¡Qué tal! Soy Juan Ormeño</h1>
 
 <h3 align="center">
 💻 Ingeniero de Sistemas · 🚀 Developer & Technical Leader · 🤖 Automatización · ⚽ Producción y Contenido Deportivo
@@ -39,8 +39,6 @@ La solución debe nacer del problema y no al revés.
 
 ### 🛠️ Tecnología con propósito
 
-No me ato a una única tecnología.
-
 Dependiendo del problema, evalúo qué herramientas son realmente necesarias. He trabajado con entornos como **JavaScript, React, Next.js, Python, Google Apps Script, Google Sheets, APIs, MySQL y Bash**.
 
 Mi objetivo es utilizar la tecnología que mejor se adapte al contexto.
@@ -67,8 +65,6 @@ Priorizo:
 ### Producción Deportiva & Automatización | *jun 2026 - Presente*
 
 Experiencia profesional dentro de un entorno de **producción y transmisión de contenidos deportivos**, combinando operación, coordinación y desarrollo de herramientas tecnológicas.
-
-### Producción y Operaciones
 
 * Gestión y coordinación de requerimientos de producción.
 * Organización de información técnica y operativa.
@@ -194,7 +190,7 @@ Automatizar la comunicación ante modificaciones relevantes y reducir la necesid
 
 ## El Hincha Blanquiazul
 
-### Fundador | *2014 - Presente*
+### Fundador | *2021 - Presente*
 
 Medio deportivo independiente enfocado principalmente en información, contenido y cobertura deportiva vinculada al **Club Alianza Lima**, con presencia en diferentes competiciones.
 
@@ -245,7 +241,7 @@ Medio de comunicación enfocado en la actualidad del fútbol peruano y cobertura
 # 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,tailwindcss,git,github,figma,mysql,bash,googleanalytics&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,tailwindcss,git,github,figma,mysql,bash&theme=dark" />
 </p>
 
 ### 💻 Desarrollo Web

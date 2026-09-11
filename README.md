@@ -3,352 +3,58 @@
 </p>
 
 <h1 align="center">👋 ¡Qué tal! Soy Juan Ormeño</h1>
-
-<h3 align="center">
-💻 Ingeniero de Sistemas · 🚀 Developer & Technical Leader · 🤖 Automatización · ⚽ Producción y Contenido Deportivo
-</h3>
+<h3 align="center">💻 Ingeniero de Sistemas · 🚀 Developer · 🤖 Automatización · ⚽ Contenido Deportivo</h3>
 
 ---
 
 ## 👨‍💻 Sobre mí
-
-Soy **Ingeniero de Sistemas** con experiencia en el ecosistema deportivo y audiovisual, combinando **desarrollo de software, automatización, producción deportiva, análisis de datos y creación de contenido digital**.
-
-Mi perfil se encuentra en la intersección entre **tecnología y operaciones**: no solo desarrollo herramientas, sino que primero entiendo el proceso, identifico problemas y posteriormente diseño soluciones que permitan **centralizar información, reducir tareas manuales, estandarizar procesos y mejorar la operación**.
-
-Actualmente trabajo en un entorno de **producción y transmisión de contenidos deportivos**, donde participo en la gestión de requerimientos, organización de información técnica y operativa, coordinación entre áreas y desarrollo de herramientas internas de automatización.
+Soy **Ingeniero de Sistemas** enfocado en el cruce entre **tecnología, automatización y el ecosistema deportivo**. Mi filosofía se basa en el pragmatismo: analizo el contexto, identifico cuellos de botella y desarrollo herramientas que centralizan información y eliminan procesos manuales. Entrego valor rápido mediante código mantenible y escalable.
 
 ---
 
-## 🚀 Filosofía de Trabajo
+## 💼 Experiencia Destacada
 
-### 🧠 El contexto manda
-
-Antes de escribir la primera línea de código, analizo el entorno del proyecto.
-
-Entiendo:
-
-* El problema real que se necesita resolver.
-* Las reglas de negocio.
-* Los procesos actuales.
-* Las restricciones técnicas.
-* Las fuentes de información.
-* Las dependencias entre sistemas y áreas.
-
-La solución debe nacer del problema y no al revés.
-
-### 🛠️ Tecnología con propósito
-
-Dependiendo del problema, evalúo qué herramientas son realmente necesarias. He trabajado con entornos como **JavaScript, React, Next.js, Python, Google Apps Script, Google Sheets, APIs, MySQL y Bash**.
-
-Mi objetivo es utilizar la tecnología que mejor se adapte al contexto.
-
-### ⚡ Pragmatismo
-
-Busco soluciones que permitan **entregar valor rápidamente sin comprometer la evolución futura del proyecto**.
-
-Priorizo:
-
-* Automatización.
-* Mantenibilidad.
-* Escalabilidad.
-* Estandarización.
-* Experiencia de usuario.
-* Optimización de procesos.
+* **NIX MEDIA | Producción Deportiva & Automatización** *(jun 2026 - Presente)*
+  Coordinación de requerimientos de producción y desarrollo de sistemas internos (CRUDs y flujos) con *Google Apps Script y Sheets* para automatizar asignaciones de personal, turnos operativos e ingesta de datos.
+* **Fundación CALMA | Team Leader & Frontend Developer** *(may 2025 - nov 2025)*
+  Liderazgo técnico bajo la metodología Scrum. Estandaricé arquitecturas con Tailwind CSS y desarrollé plataformas web clínicas y operativas utilizando *React.js y Next.js*.
 
 ---
 
-# 💼 Trayectoria Laboral
+## 🚀 Proyectos y Ecosistema Digital
 
-## NIX MEDIA
-
-### Producción Deportiva & Automatización | *jun 2026 - Presente*
-
-Experiencia profesional dentro de un entorno de **producción y transmisión de contenidos deportivos**, combinando operación, coordinación y desarrollo de herramientas tecnológicas.
-
-* Gestión y coordinación de requerimientos de producción.
-* Organización de información técnica y operativa.
-* Seguimiento de necesidades de producción.
-* Comunicación entre diferentes áreas involucradas.
-* Participación en la planificación de transmisiones deportivas.
-
-### Tecnología y Automatización
-
-Identifico procesos manuales dentro del área y desarrollo herramientas digitales para optimizarlos.
-
-* Desarrollo de soluciones con **Google Apps Script y Google Sheets**.
-* Automatización de procesos operativos.
-* Integración de información entre diferentes fuentes.
-* Desarrollo de herramientas internas.
-* Mantenimiento y evolución de automatizaciones.
-* Soporte técnico de las herramientas desarrolladas.
-* Resolución de incidencias relacionadas con los sistemas implementados.
-
-### Impacto
-
-* Centralización de información.
-* Reducción de tareas manuales.
-* Estandarización de procesos.
-* Acceso móvil a herramientas operativas.
+* **⚙️ Ecosistema de Automatización:** Creación de múltiples suites internas para la gestión de requerimientos, turnos y notificaciones automatizadas en operaciones de TV/Streaming, integrando bases de datos y exportación de reportes PDF.
+* **⚽ Medios Deportivos (El Hincha Blanquiazul, Gallo Freestyle, Dale Fútbol Perú):** Fundador y gestor de plataformas deportivas. Cobertura de Copa Libertadores, Liga Femenina y torneos locales. Gestión de comunidades digitales con impacto en más de **+1M de seguidores** sumados.
 
 ---
 
-## Fundación CALMA
-
-### Team Leader Frontend | *ago 2025 - nov 2025*
-
-* Lideré un equipo de desarrollo bajo el marco de trabajo **Scrum**.
-* Lideré reuniones técnicas enfocadas en frontend.
-* Estandaricé el uso de **Tailwind CSS** dentro de los proyectos.
-* Administré el ciclo de vida de los **sprints**, desde la distribución de tareas hasta la entrega.
-* Coordiné con **Scrum Master, Tech Lead y QA**.
-* Resolví impedimentos técnicos.
-* Promoví una cultura de colaboración y comunicación dentro del equipo.
-
-### Desarrollador Frontend | *may 2025 - ago 2025*
-
-* Desarrollo de aplicaciones web con **React.js, Next.js, HTML5 y Tailwind CSS**.
-* Integración de aplicaciones frontend con **APIs RESTful**.
-* Desarrollo de plataformas clínicas y operativas internas.
-* Implementación de mejoras de **UX/UI**.
-* Aplicación de criterios de accesibilidad basados en **WCAG**.
-
----
-
-# 💻 Proyectos de Automatización
-
-Uno de mis principales focos actuales es el desarrollo de sistemas internos para **gestionar, automatizar y conectar procesos operativos**.
-
-## 📋 Sistema de Gestión de Requerimientos
-
-**Stack:** Google Apps Script · Google Sheets · JavaScript
-
-Sistema destinado a gestionar los requerimientos necesarios para la operación de producción.
-
-### Características
-
-* CRUD.
-* Generación de identificadores.
-* Validaciones.
-* Automatizaciones.
-* Integración de datos.
-* Gestión de información operativa.
-
-Permite centralizar información relacionada con los recursos necesarios para las operaciones de producción.
-
----
-
-## 👥 Sistema de Gestión de Asignaciones
-
-**Stack:** Google Apps Script · Google Sheets · JavaScript
-
-Sistema orientado a la asignación de recursos humanos para programas y transmisiones.
-
-### Características
-
-* CRUD.
-* Generación de identificadores.
-* Validaciones.
-* Automatizaciones.
-* Integración de datos.
-* Exportación de PDF.
-
-Permite organizar la asignación de recursos humanos dentro del área de operaciones.
-
----
-
-## 📅 Creación de Turnos de Programación de Operaciones
-
-**Stack:** Google Apps Script · Google Sheets · JavaScript
-
-Herramienta encargada de generar y organizar la programación operativa a partir de información proveniente de otros sistemas.
-
-### Características
-
-* CRUD.
-* Generación de identificadores.
-* Validaciones.
-* Automatizaciones.
-* Integración de datos.
-* Exportación de PDF.
-
----
-
-## 🔔 Notificación de cambios en Ingesta
-
-Sistema de comunicación automatizada entre el equipo de **Ingesta y los clientes**, integrando información con los requerimientos de producción.
-
-### Objetivo
-
-Automatizar la comunicación ante modificaciones relevantes y reducir la necesidad de seguimiento manual.
-
-**Usuarios:** Área de Ingesta · Área de Producción · Clientes.
-
----
-
-# ⚽ Medios y Contenido Deportivo
-
-## El Hincha Blanquiazul
-
-### Fundador | *2021 - Presente*
-
-Medio deportivo independiente enfocado principalmente en información, contenido y cobertura deportiva vinculada al **Club Alianza Lima**, con presencia en diferentes competiciones.
-
-### Áreas
-
-* Gestión de comunidades.
-* Redes sociales.
-* Creación de contenido deportivo.
-* Cobertura de eventos.
-* Estrategia digital.
-* Análisis de métricas.
-
-### Presencia Digital
-
-* **850K** seguidores en Facebook.
-* **36K** en Instagram.
-* **3K** en TikTok.
-* **45K** en YouTube.
-* **280K+** miembros en comunidades.
-
-### Cobertura
-
-🏆 Copa Libertadores
-⚽ Liga de Fútbol Profesional
-⚽ Liga Femenina
-⚽ Torneos de menores
-🏐 Liga Nacional Superior de Vóley
-🌎 Eliminatorias
-
----
-
-## Gallo Freestyle
-
-### Fundador | *2024 - Presente*
-
-Proyecto dedicado a la producción, edición y distribución de contenido relacionado con el freestyle en la región **LATAM**.
-
----
-
-## Dale Fútbol Perú
-
-### Fundador | *2024 - Presente*
-
-Medio de comunicación enfocado en la actualidad del fútbol peruano y cobertura de competiciones nacionales.
-
----
-
-# 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,tailwindcss,git,github,figma,mysql,bash,linkedin,instagram,gmail,trello,leetcode&theme=dark&perline=7" alt="Stack de Juan Julian Ormeño Flores" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,tailwindcss,git,github,figma,mysql,bash,linkedin,instagram,gmail,trello,leetcode&theme=dark&perline=7" alt="Stack Tecnológico" />
   </a>
 </p>
-### 💻 Desarrollo Web
 
-* React.js
-* Next.js
-* JavaScript ES6+
-* HTML5
-* CSS3
-* Tailwind CSS
-
-### 🤖 Automatización & Backend
-
-* Google Apps Script
-* Google Sheets
-* Python
-* Pandas
-* Pillow
-* Bash Shell
-* APIs REST
-
-### 🗄️ Bases de Datos
-
-* MySQL
-* Modelado y administración de bases de datos.
-
-### 📊 Data & Analytics
-
-* Google Analytics
-* E-commerce Analytics
-* Data Visualization
-* Análisis de métricas digitales
-* Sports Analytics
-
-### 🎨 Diseño & Audiovisual
-
-* Figma
-* Canva
-* CapCut
-
-### 🔄 Metodologías
-
-* Scrum
-* Liderazgo técnico
-* Coordinación de equipos remotos
-* Gestión de sprints
+* **Desarrollo Web:** React.js, Next.js, JavaScript, Tailwind CSS, HTML/CSS.
+* **Backend & Automatización:** Python, Google Apps Script, Bash, REST APIs, MySQL.
+* **Data & Digital:** Pandas, Google Analytics, Sports Analytics.
+* **Herramientas & Metodologías:** Figma, CapCut, Canva, Scrum, Liderazgo Técnico.
 
 ---
 
-# 🎓 Educación
-
+## 🎓 Educación y Certificaciones
 * **Ingeniería de Sistemas** — Egresado, Universidad Nacional Federico Villarreal.
-* **Data Analytics en el Fútbol** — Sports Data Campus, 2026.
-* **Inglés — Programa Intensivo** — Centro de Idiomas UNFV, 2026.
-* **Periodismo Deportivo — Programa Internacional** — USIL, 2021.
+* **Data Analytics en el Fútbol** — Sports Data Campus (2026).
+* **Certificaciones:** IA Fundamentos (IBM/Cisco), Backend con Python, Bash Shell, Business & E-commerce Analytics.
 
 ---
 
-# 📜 Cursos y Certificaciones
+## 🔗 Conectemos
 
-* Fundamentos de Inteligencia Artificial — IBM SkillsBuild & Cisco Networking Academy.
-* Backend con Python.
-* Programación en Bash Shell.
-* Google Analytics para Ecommerce.
-* Business Analytics.
-* Economía Digital: Bitcoin y Criptomonedas.
-* Economía del Comportamiento.
-
----
-
-# 📈 Lo que me motiva
-
-### 🤖 Productividad & Automatización
-
-Crear soluciones tecnológicas que reduzcan tareas repetitivas y permitan que los equipos se concentren en actividades de mayor valor.
-
-### ⚽ Sports Analytics
-
-Analizar e interpretar estadísticas para comprender mejor el fútbol y apoyar la toma de decisiones.
-
-### 📊 Analítica Digital
-
-Transformar datos provenientes de webs y redes sociales en información útil para entender audiencias, comportamiento y rendimiento.
-
-### 💻 Tecnología con Propósito
-
-Utilizar la tecnología para resolver problemas reales, mejorar procesos y construir herramientas que tengan un impacto tangible.
-
-### 🎥 Deporte & Medios
-
-Combinar tecnología, producción y comunicación para desarrollar proyectos dentro del ecosistema deportivo.
-
----
-
-# 🔗 Conectemos
-
-**¿Buscas sumar talento a tu equipo o tienes una idea en mente?**
-
-Escríbeme directamente por **[LinkedIn](https://www.linkedin.com/in/juanflores1901)**.
-
----
+¿Buscas sumar talento a tu equipo o tienes una idea en mente? Escríbeme directamente por **[LinkedIn](https://www.linkedin.com/in/juanflores1901)**.
 
 <p align="center">
-  <i>"La innovación real surge en el punto exacto donde la tecnología y la pasión por el deporte se cruzan para conectar con las personas."</i>
-</p>
-
-<p align="center">
+  <i>"La innovación real surge en el punto exacto donde la tecnología y la pasión por el deporte se cruzan para conectar con las personas."</i><br>
   — Juan Flores
 </p>

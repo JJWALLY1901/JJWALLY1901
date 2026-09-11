@@ -241,9 +241,10 @@ Medio de comunicación enfocado en la actualidad del fútbol peruano y cobertura
 # 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,tailwindcss,git,github,figma,mysql,bash&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,tailwindcss,git,github,figma,mysql,bash,linkedin,instagram,gmail,trello,leetcode&theme=dark&perline=7" alt="Stack de Juan Julian Ormeño Flores" />
+  </a>
 </p>
-
 ### 💻 Desarrollo Web
 
 * React.js

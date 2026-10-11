@@ -8,13 +8,14 @@
 ---
 
 ## 👨‍💻 Sobre mí
-Soy **Ingeniero de Sistemas** enfocado en el cruce entre **tecnología, automatización y el ecosistema deportivo**. Mi filosofía se basa en el pragmatismo: analizo el contexto, identifico cuellos de botella y desarrollo herramientas que centralizan información y eliminan procesos manuales. Entrego valor rápido mediante código mantenible y escalable.
+Soy un desarrollador autodidacta. Simplemente disfruto escribiendo código y creando cosas. Siento curiosidad por las nuevas tecnologías, así que dedico mucho tiempo a aprender y mantenerme al día.
 
+No lo sé todo, pero aprendo rápido.
 ---
 
 ## 💼 Experiencia Destacada
 
-* **NIX MEDIA | Producción Deportiva & Automatización** *(jun 2026 - Presente)*
+* **NIX MEDIA | Full Stack Developer** *(jun 2026 - Presente)*
   Coordinación de requerimientos de producción y desarrollo de sistemas internos (CRUDs y flujos) con *Google Apps Script y Sheets* para automatizar asignaciones de personal, turnos operativos e ingesta de datos.
 * **Fundación CALMA | Team Leader & Frontend Developer** *(may 2025 - nov 2025)*
   Liderazgo técnico bajo la metodología Scrum. Estandaricé arquitecturas con Tailwind CSS y desarrollé plataformas web clínicas y operativas utilizando *React.js y Next.js*.
